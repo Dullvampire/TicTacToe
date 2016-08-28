@@ -1,6 +1,8 @@
 
 public class Main {
 	
+	public int boardState = 0:
+	
 	/* 
 	 * Return codes :
 	 * 		0 = no win
